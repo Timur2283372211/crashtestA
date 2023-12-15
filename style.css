@@ -1,0 +1,27 @@
+body{
+    padding: 0 auto;
+    box-sizing: border-box;
+    background:#293462;
+  }
+  .a {
+    margin: 50px auto;
+    width: 200px;
+    height: 200px;
+    background: #FFF1C1;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  .b {
+    margin: 90px 0 0 66px;
+    width: 150px;
+    height: 150px;
+    background: #FE5F55;
+    transform: rotate(45deg);
+  }
+  .c {
+    margin: -90px 50px 50px -21px;
+    width: 100px;
+    height: 100px;
+    background: #FE5F55;
+    transform: rotate(45deg);
+  }
